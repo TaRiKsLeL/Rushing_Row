@@ -1,0 +1,11 @@
+C:\Users\Тарас\source\repos\C#\Rushing_Row\bin\Debug\Rushing_Row.exe.config
+C:\Users\Тарас\source\repos\C#\Rushing_Row\bin\Debug\Rushing_Row.exe
+C:\Users\Тарас\source\repos\C#\Rushing_Row\bin\Debug\Rushing_Row.pdb
+C:\Users\Тарас\source\repos\C#\Rushing_Row\obj\Debug\Rushing_Row.csprojAssemblyReference.cache
+C:\Users\Тарас\source\repos\C#\Rushing_Row\obj\Debug\Rushing_Row.Form1.resources
+C:\Users\Тарас\source\repos\C#\Rushing_Row\obj\Debug\Rushing_Row.Properties.Resources.resources
+C:\Users\Тарас\source\repos\C#\Rushing_Row\obj\Debug\Rushing_Row.csproj.GenerateResource.cache
+C:\Users\Тарас\source\repos\C#\Rushing_Row\obj\Debug\Rushing_Row.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\source\repos\C#\Rushing_Row\obj\Debug\Rushing_Row.exe
+C:\Users\Тарас\source\repos\C#\Rushing_Row\obj\Debug\Rushing_Row.pdb
+C:\Users\Тарас\source\repos\C#\Rushing_Row\obj\Debug\Rushing_Row.RowForm.resources
